@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "name": "Tommy ",
+      "address": "Japan",
+      "email": "tommy@gmail.com",
+      "contact": "9898346798",
+      "id": 2
+    },
+    {
+      "name": "Ritika Bajaj",
+      "email": "bajajritika026@gmail.com",
+      "contact": "7777777777",
+      "address": "abc street",
+      "id": 4
+    },
+    {
+      "name": "jiya",
+      "email": "jiya@gmail.com",
+      "contact": "66666666666",
+      "address": "abcd",
+      "id": 6
+    },
+    {
+      "name": "rrr",
+      "email": "rrr@gmail.com",
+      "contact": "444444444",
+      "address": "rrr",
+      "id": 7
+    },
+    {
+      "name": "dddd",
+      "email": "dddd@gmail.com",
+      "contact": "22222222",
+      "address": "Japan",
+      "id": 8
+    },
+    {
+      "name": "asd",
+      "email": "asd@gmail.com",
+      "contact": "33333",
+      "address": "asd",
+      "id": 9
+    },
+    {
+      "name": "web",
+      "email": "web@gmail.com",
+      "contact": "5612347800",
+      "address": "home",
+      "id": 10
+    },
+    {
+      "name": "James",
+      "email": "james@gmail.com",
+      "contact": "9807065423",
+      "address": "UK",
+      "id": 11
+    }
+  ]
+}
